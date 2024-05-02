@@ -1,0 +1,16 @@
+Inheritance:
+Employee is the base class.
+HourlyEmployee and SalariedEmployee are derived classes inheriting from Employee.
+
+Classes:
+Employee: Represents basic employee information and methods.
+HourlyEmployee: Represents an employee paid by the hour.
+SalariedEmployee: Represents an employee paid a fixed monthly salary.
+
+Data Storage:
+employees list is used to store instances of employees.
+
+
+To run:
+open visual studio code >> File >> Open Folder >> Find EmployeeManagement Folder >> select that Folder
+click Terminal >> New Terminal >> type dotnet run
