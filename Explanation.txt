@@ -12,5 +12,8 @@ employees list is used to store instances of employees.
 
 
 To run:
+download and install C# Extension
+https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
+
 open visual studio code >> File >> Open Folder >> Find EmployeeManagement Folder >> select that Folder
 click Terminal >> New Terminal >> type dotnet run
